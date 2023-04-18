@@ -1,5 +1,5 @@
-# 💫 About Me:
-A very hard-core backend developer cum commodity seller
+# 💫 Who am I:
+A very hard-core backend developer cum commodity seller.
 
 
 # 💻 Tech Stack I Used:
